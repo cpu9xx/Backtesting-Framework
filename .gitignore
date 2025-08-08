@@ -1,0 +1,38 @@
+# Python 临时文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode/IDE 配置
+.vscode/
+.idea/
+
+# 日志文件
+*.log
+*.txt
+
+*.png
+*.pkl
+*.csv
+*.xlsx
+*.yaml
+*.json
+*.pth
+*.npy
+
+# 压缩/临时文件
+*.zip
+*.tmp
+*.bak
+
+# 数据库 dump（如果太大，也可以忽略）
+*.sql
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac/Windows 系统文件
+.DS_Store
+Thumbs.db
